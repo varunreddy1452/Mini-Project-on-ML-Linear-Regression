@@ -1,0 +1,5 @@
+fit(X, y, sample_weight=None)
+get_params(deep=True)[source]
+predict(X)[source]
+score(X, y, sample_weight=None)
+set_params(**params)[source]
